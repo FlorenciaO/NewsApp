@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_news">Noticias</string>
+    <string name="title_users">Usuarios</string>
+    <string name="title_settings">Configuración</string>
+    <string name="news_details_title">Detalles</string>
+    <string name="user_map_title">Ubicación</string>
+    <string name="connection_error">Hubo un error. Verifique su conexión a Internet</string>
+    <string name="unexpected_error">Hubo un error inesperado. Intente más tarde.</string>
+    <string name="user_name_title">Usuario: %1$s</string>
+    <string name="user_address_subtitle">Dirección: %1$s, %2$s</string>
+    <string name="news_username_time_ago">%1$s  ·  %2$s</string>
+    <string name="go_to_map">Ver mapa  ></string>
+    <string name="database_name">news_app_database</string>
+    <string name="news_screen_title">¡Entérate de las últimas noticias alrededor del mundo!</string>
+    <string name="users_screen_title">Conozca a nuestros usuarios</string>
+    <string name="search_hint">Buscar…</string>
+    <string name="no_coincidence_warning">No hubo coincidencias con la búsqueda. Intente nuevamente</string>
+</resources>
